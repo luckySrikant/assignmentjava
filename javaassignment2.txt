@@ -1,0 +1,2 @@
+get month by date:--  https://jsfiddle.net/uf16seg3/
+calculate the CI:-- https://jsfiddle.net/3rnaumg1/
