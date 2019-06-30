@@ -1,0 +1,7 @@
+https://jsfiddle.net/tfpcgoba/ ----- longest word
+https://jsfiddle.net/kj81wnhc/ ----- string in alphabetical order
+https://jsfiddle.net/26edpo4b/ ----- current date in various formats
+https://jsfiddle.net/nxmbLsep/ ----- 1st jan sunday
+https://jsfiddle.net/Lm4d2jn1/ ----- christmas
+https://jsfiddle.net/vzt80r96/ ----- remove a character from a string
+
