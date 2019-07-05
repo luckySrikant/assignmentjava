@@ -1,4 +1,4 @@
-https://jsfiddle.net/x0Le9ap4/ ------ current day and date
+https://jsfiddle.net/wzcgav65/ ------ current day and date
 https://jsfiddle.net/rkoc4vpt/ ------ leap year
 https://jsfiddle.net/g7vhnmwu/ ------ random number
 https://jsfiddle.net/yr4187s6/ ------ days left for christmas
